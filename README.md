@@ -24,5 +24,5 @@ You will be using the jQuery click() event to do different things to your webpag
 
 
 #### EXTENSION
-* OLD ENOUGH TO DRIVE?: When the user clicks on this button they will be prompted with "How olde are you?". If they are old enough to drive, the entire container will be replaced with a heading saying "WOHOOO!!!". If they are not old enough to drive, the entire container will be replaced with a heading saying "Sorry, maybe next year".
+* OLD ENOUGH TO DRIVE?: When the user clicks on this button they will be prompted with "How old are you?". If they are old enough to drive, the entire container will be replaced with a heading saying "WOHOOO!!!". If they are not old enough to drive, the entire container will be replaced with a heading saying "Sorry, maybe next year".
 * YOU CHOOSE!: Look at jQuery's effects possibilities: [jQuery effects](http://api.jquery.com/category/manipulation/) and pick something that you would like this button to do!
