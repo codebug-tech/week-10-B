@@ -6,21 +6,27 @@
   width: 500px;
   height: 500px;
   margin: 0 auto;
+  font-size: 70%;
 }
 div {
   border: 1px solid black;
 }
+
 button {
   display: block;
   margin: 0 auto;
   padding: 10px;
-  background-color: #bad6d3;
+  background-color: rgb(249, 244, 132);
   border-radius: 5px;
-  margin-top: 30px;
+  margin-top: 20px;
   border: none;
-  box-shadow: 1px 1px 1px 1px gray
+  height: 50px;
+  box-shadow: 2px 2px rgba(118, 122, 130, 0.5);
+  text-align: center;
+
 }
+
 button:hover {
   color: white;
-  background: #305e59;
+  background: rgb(183, 210, 255);
 }
